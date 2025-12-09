@@ -4,6 +4,7 @@ const page = () => {
   return (
     <div>
       my frist page
+      
     </div>
   )
 }
