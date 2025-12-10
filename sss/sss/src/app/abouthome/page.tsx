@@ -3,7 +3,7 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      its about page
+      allah is the greatest . may allah bless us
     </div>
   )
 }
