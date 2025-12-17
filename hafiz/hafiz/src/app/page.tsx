@@ -14,9 +14,8 @@ const page = () => {
       </p>
     </blockquote>
     <figcaption className="font-medium">
-      <div className
-      ="text-sky-500 dark:text-sky-400">
-        Sajid syed
+      <div className="text-sky-500 dark:text-sky-400">
+        Sajid 
       </div>
       <div className="text-slate-700 dark:text-slate-500">
         Staff Engineer,
