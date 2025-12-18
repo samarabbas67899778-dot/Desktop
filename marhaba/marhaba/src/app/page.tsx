@@ -18,7 +18,7 @@ const page = () => {
         Sajid syed
       </div>
       <div className="text-slate-700 dark:text-slate-500">
-        paib student
+        
       </div>
     </figcaption>
   </div>
