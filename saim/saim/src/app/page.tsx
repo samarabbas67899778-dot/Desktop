@@ -8,9 +8,9 @@ const page = () => {
   <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
     <blockquote>
       <p className="text-lg font-medium">
-         almighty allah is geatest
+        allah almighty is the greatest
         
-
+        
       </p>
     </blockquote>
     <figcaption className="font-medium">
@@ -18,7 +18,7 @@ const page = () => {
         Sajid syed
       </div>
       <div className="text-slate-700 dark:text-slate-500">
-        student
+        Staff Engineer, 
       </div>
     </figcaption>
   </div>
